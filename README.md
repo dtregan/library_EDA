@@ -1,5 +1,5 @@
 # silent-library
-EDA (MSc 'Design and Programming' module first assignment - 39/40)
+Exploratory Data Analysis
 
 Contains .ipynb file and x2 .csv files (books.csv and bookloans.csv). Tasks outlined in the .ipynb file are outlined below:
 
