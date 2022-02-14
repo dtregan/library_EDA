@@ -1,4 +1,4 @@
-# silent-library
+# library_eda
 Exploratory Data Analysis
 
 Contains .ipynb file, x2 .csv files (books.csv and bookloans.csv) and an example of the generated .txt file (books_tasks_report.txt). Tasks outlined in the .ipynb file are outlined again below:
